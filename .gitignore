@@ -1,0 +1,23 @@
+
+#
+# Build Files
+#
+**/target/
+/out/
+**/*.log
+
+#
+# IntelliJ IDEA Files
+#
+/.idea/
+**/*.iml
+SampleSpring.iml
+#
+# Misc. Files
+#
+**/bin/
+/catalina*
+/target/
+.idea/vcs.xml
+.idea/workspace.xml
+**/.idea
